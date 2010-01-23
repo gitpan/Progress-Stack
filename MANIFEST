@@ -1,0 +1,7 @@
+MANIFEST
+Makefile.PL
+LICENSE
+README
+t/progress.t
+lib/Progress/Stack.pm
+META.yml                                 Module meta-data (added by MakeMaker)
